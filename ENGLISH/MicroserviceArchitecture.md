@@ -83,3 +83,9 @@ Key points to consider when developing microservices modules:
 
 - **Testing Complexity**  
   Integration testing becomes more complex due to the dependencies between services.
+
+---
+
+## 📌 In Brief:
+Microservices architecture is an approach where, instead of a large monolithic application, a community of small and independent applications comes together.
+
