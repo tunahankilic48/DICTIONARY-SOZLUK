@@ -83,3 +83,9 @@ Mikroservis modülleri geliştirilirken dikkat edilmesi gereken başlıca noktal
 
 - **Test Karmaşıklığı**  
   Tüm sistemin entegrasyon testi daha fazla zaman ve kaynak gerektirebilir.
+
+---
+  
+## 📌 Kısaca:
+Mikroservis mimarisi, "büyük ve monolitik bir uygulama yerine, küçük ve bağımsız uygulamalardan oluşan bir topluluk" yaklaşımıdır.
+
