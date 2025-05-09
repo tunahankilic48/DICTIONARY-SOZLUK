@@ -6,7 +6,7 @@
 
 Let’s consider the product-related page in an e-commerce site:
 
-- In **Layered Architecture**: The system is structured into layers such as `UI`, `Business Logic`, and `Data Access`. These layers serve technical responsibilities and are often shared across features.
+- In **[Layered Architecture](https://github.com/tunahankilic48/DICTIONARY-SOZLUK/blob/main/ENGLISH/LayeredArchitecture.md)**: The system is structured into layers such as `UI`, `Business Logic`, and `Data Access`. These layers serve technical responsibilities and are often shared across features.
   
 - In **Vertical Slice Architecture**: The system is divided by features like `GetProducts`, `CreateProduct`, and `UpdateProduct`. Each slice contains everything it needs (UI, logic, data) and operates independently.
 
@@ -44,7 +44,7 @@ Let’s consider the product-related page in an e-commerce site:
 
 ## 🧮 Architecture Comparison Table
 
-| Feature / Architecture             | Layered Architecture                  | Clean Architecture                         | Vertical Slice Architecture                |
+| Feature / Architecture             | [Layered Architecture](https://github.com/tunahankilic48/DICTIONARY-SOZLUK/blob/main/ENGLISH/LayeredArchitecture.md)                  | Clean Architecture                         | Vertical Slice Architecture                |
 |-----------------------------------|----------------------------------------|---------------------------------------------|---------------------------------------------|
 | **Organization Principle**         | Based on technical layers (UI, BL, DAL)| Domain-centric with abstractions            | Based on features and actions               |
 | **Separation of Concerns**         | By technical responsibility            | By domain and dependency direction           | By end-to-end feature responsibility         |
