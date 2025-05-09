@@ -6,7 +6,7 @@
 
 Bir e-ticaret sitesindeki ürünlerle ilgili sayfayı ele alalım:
 
-- **Katmanlı Mimari**'de: Yapı, `UI`, `Business Logic` ve `Data Access` gibi **teknik sorumluluklara göre katmanlara** ayrılır. Her katman, farklı modüllerin ortak kullanımına hizmet eder.
+- **[Katmanlı Mimari](https://github.com/tunahankilic48/DICTIONARY-SOZLUK/blob/main/T%C3%9CRK%C3%87E/KatmanliMimari.md)**'de: Yapı, `UI`, `Business Logic` ve `Data Access` gibi **teknik sorumluluklara göre katmanlara** ayrılır. Her katman, farklı modüllerin ortak kullanımına hizmet eder.
   
 - **Vertical Slice Architecture**'da: Yapı, `GetProducts`, `CreateProduct`, `UpdateProduct` gibi **özellik bazlı (feature-based)** dilimlere ayrılır. Her dilim, UI, iş mantığı ve veri erişimi gibi bileşenleri kendi içinde barındırır ve bağımsız çalışabilir.
 
@@ -44,7 +44,7 @@ Bir e-ticaret sitesindeki ürünlerle ilgili sayfayı ele alalım:
 
 ## 🧮 Mimari Karşılaştırma Tablosu
 
-| Özellik / Mimari Yaklaşım       | Katmanlı Mimari (Layered)             | Clean Architecture                         | Vertical Slice Architecture                 |
+| Özellik / Mimari Yaklaşım       | [Katmanlı Mimari (Layered)](https://github.com/tunahankilic48/DICTIONARY-SOZLUK/blob/main/T%C3%9CRK%C3%87E/KatmanliMimari.md)             | Clean Architecture                         | Vertical Slice Architecture                 |
 |----------------------------------|----------------------------------------|---------------------------------------------|----------------------------------------------|
 | **Yapılandırma Ölçütü**          | Teknik katmanlara göre (UI, BL, DAL)   | Domain merkezli, soyutlamaya dayalı         | Özellik ve işlevlere göre (feature-based)    |
 | **Sorumluluk Ayrımı**            | Katmanlara göre                        | Katmanlara göre ama domain odaklı           | Özellik bazlı, uçtan uca                     |
