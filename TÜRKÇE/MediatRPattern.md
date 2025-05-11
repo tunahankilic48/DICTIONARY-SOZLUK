@@ -4,7 +4,7 @@
 
 ---
 
-### 📖 **MediatR Pattern'ın Temel Amacı
+### 📖 **MediatR Pattern'ın Temel Amacı**
 
 MediatR deseni, bir **komut** (command) ya da **sorgu** (query) gönderildiğinde, bunu işlemek için doğrudan bir **handler** (işleyici) kullanmanızı sağlar. Bu desende, uygulamanın uygulama mantığı ve veri erişimi gibi işlemler arasındaki bağımlılıkları gevşetmek amacıyla araya bir **mediator** katmanı eklenir.
 
@@ -12,7 +12,7 @@ Temel olarak, **MediatR** aracı, bir **komut** veya **sorgu** iletildiğinde, b
 
 ---
 
-### 🔄 **MediatR'ın Temel Bileşenleri
+### 🔄 **MediatR'ın Temel Bileşenleri**
 
 1. **Request (İstek)**:
    - **Command** veya **Query** olarak iki farklı türde olabilir.
@@ -29,7 +29,7 @@ Temel olarak, **MediatR** aracı, bir **komut** veya **sorgu** iletildiğinde, b
 
 ---
 
-### 🧠 **MediatR Pattern'ın Avantajları
+### 🧠 **MediatR Pattern'ın Avantajları**
 
 - **Gevşek Bağımlılıklar**:
   - **MediatR**, bileşenler arasındaki doğrudan bağımlılığı ortadan kaldırır. Bir **handler**, başka bir **handler**’a doğrudan referans vermez, sadece **MediatR** aracılığıyla işlem yapılır.
