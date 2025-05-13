@@ -64,10 +64,10 @@ With CQRS, these responsibilities are **segregated**, resulting in a structure t
 
 ## 🧰 Common CQRS Use Cases & Tools
 
-- 🔄 **MediatR** – A popular CQRS library in C#
+- 🔄 **[MediatR](https://github.com/tunahankilic48/DICTIONARY-SOZLUK/blob/main/T%C3%9CRK%C3%87E/MikroservisMimarisi.md)** – A popular CQRS library in C#
 - 🗃️ **Event Sourcing** – Tracks changes as events instead of directly updating the database
-- 🧠 **Domain Driven Design (DDD)** – Often paired with CQRS
-- ⚙️ **Microservices** – Ideal for decoupling services and responsibilities
+- 🧠 **[Domain Driven Design (DDD)](https://github.com/tunahankilic48/DICTIONARY-SOZLUK/blob/main/ENGLISH/DomainDrivenDesign.md)** – Often paired with CQRS
+- ⚙️ **[Microservices](https://github.com/tunahankilic48/DICTIONARY-SOZLUK/blob/main/ENGLISH/MicroserviceArchitecture.md)** – Ideal for decoupling services and responsibilities
 
 ---
 
