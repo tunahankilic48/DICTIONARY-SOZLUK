@@ -44,7 +44,7 @@ Let’s consider the product-related page in an e-commerce site:
 
 ## 🧮 Architecture Comparison Table
 
-| Feature / Architecture             | [Layered Architecture](https://github.com/tunahankilic48/DICTIONARY-SOZLUK/blob/main/ENGLISH/LayeredArchitecture.md)                  | Clean Architecture                         | Vertical Slice Architecture                |
+| Feature / Architecture             | [Layered Architecture](https://github.com/tunahankilic48/DICTIONARY-SOZLUK/blob/main/ENGLISH/LayeredArchitecture.md)                  | [Clean Architecture](https://github.com/tunahankilic48/DICTIONARY-SOZLUK/blob/main/ENGLISH/CleanArchitecture.md)                         | Vertical Slice Architecture                |
 |-----------------------------------|----------------------------------------|---------------------------------------------|---------------------------------------------|
 | **Organization Principle**         | Based on technical layers (UI, BL, DAL)| Domain-centric with abstractions            | Based on features and actions               |
 | **Separation of Concerns**         | By technical responsibility            | By domain and dependency direction           | By end-to-end feature responsibility         |
