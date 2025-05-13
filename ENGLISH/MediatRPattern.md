@@ -1,6 +1,6 @@
 # MediatR Pattern
 
-**MediatR** is a **mediator pattern** used in .NET applications. This pattern prevents components in the application from communicating directly with each other and ensures that all communication occurs via **MediatR**. MediatR is compatible with **CQRS** (Command Query Responsibility Segregation) and **Event-driven** architectures, and is especially useful for **loosening dependencies** and **abstracting operations**.
+**MediatR** is a **mediator pattern** used in .NET applications. This pattern prevents components in the application from communicating directly with each other and ensures that all communication occurs via **MediatR**. MediatR is compatible with **[CQRS](https://github.com/tunahankilic48/DICTIONARY-SOZLUK/blob/main/T%C3%9CRK%C3%87E/CQRS.md)** (Command Query Responsibility Segregation) and **Event-driven** architectures, and is especially useful for **loosening dependencies** and **abstracting operations**.
 
 ---
 
