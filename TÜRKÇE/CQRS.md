@@ -66,10 +66,10 @@ bir yapı sağlar.
 
 ## 🧰 CQRS Genellikle Şu Yapılarla Kullanılır:
 
-- 🔄 **MediatR** – (C# tarafında popüler bir CQRS kütüphanesi)
+- 🔄 **[MediatR](https://github.com/tunahankilic48/DICTIONARY-SOZLUK/blob/main/T%C3%9CRK%C3%87E/MediatRPattern.md)** – (C# tarafında popüler bir CQRS kütüphanesi)
 - 🗃️ **Event Sourcing** – (Veri değişikliklerini olay olarak takip eder)
-- 🧠 **Domain Driven Design (DDD)** – ile entegre şekilde kullanılır
-- ⚙️ **Microservices** – mimarilerinde servis ayrımı için idealdir
+- 🧠 **[Domain Driven Design (DDD)](https://github.com/tunahankilic48/DICTIONARY-SOZLUK/blob/main/T%C3%9CRK%C3%87E/DomainDrivenDesign.md)** – ile entegre şekilde kullanılır
+- ⚙️ **[Microservices](https://github.com/tunahankilic48/DICTIONARY-SOZLUK/blob/main/T%C3%9CRK%C3%87E/MikroservisMimarisi.md)** – mimarilerinde servis ayrımı için idealdir
 
 ---
 
