@@ -1,6 +1,6 @@
 # MediatR Pattern
 
-**MediatR**, .NET uygulamalarında kullanılan bir **saycı** (mediator) desenidir. Bu desen, uygulama içindeki bileşenlerin birbirleriyle doğrudan iletişim kurmasını engelleyerek, her bileşenin sadece **MediatR** aracılığıyla iletişim kurmasını sağlar. MediatR, **CQRS** (Command Query Responsibility Segregation) ve **Event-driven** mimarileriyle uyumlu bir yapıdır, ve özellikle **bağımlılıkların gevşetilmesi** ve **işlemlerin soyutlanması** açısından faydalıdır.
+**MediatR**, .NET uygulamalarında kullanılan bir **saycı** (mediator) desenidir. Bu desen, uygulama içindeki bileşenlerin birbirleriyle doğrudan iletişim kurmasını engelleyerek, her bileşenin sadece **MediatR** aracılığıyla iletişim kurmasını sağlar. MediatR, **[CQRS](https://github.com/tunahankilic48/DICTIONARY-SOZLUK/blob/main/T%C3%9CRK%C3%87E/CQRS.md)** (Command Query Responsibility Segregation) ve **Event-driven** mimarileriyle uyumlu bir yapıdır, ve özellikle **bağımlılıkların gevşetilmesi** ve **işlemlerin soyutlanması** açısından faydalıdır.
 
 ---
 
