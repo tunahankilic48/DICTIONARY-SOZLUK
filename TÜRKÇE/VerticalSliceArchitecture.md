@@ -44,7 +44,7 @@ Bir e-ticaret sitesindeki ürünlerle ilgili sayfayı ele alalım:
 
 ## 🧮 Mimari Karşılaştırma Tablosu
 
-| Özellik / Mimari Yaklaşım       | [Katmanlı Mimari (Layered)](https://github.com/tunahankilic48/DICTIONARY-SOZLUK/blob/main/T%C3%9CRK%C3%87E/KatmanliMimari.md)             | Clean Architecture                         | Vertical Slice Architecture                 |
+| Özellik / Mimari Yaklaşım       | [Katmanlı Mimari (Layered)](https://github.com/tunahankilic48/DICTIONARY-SOZLUK/blob/main/T%C3%9CRK%C3%87E/KatmanliMimari.md)             |  [Clean Architecture](https://github.com/tunahankilic48/DICTIONARY-SOZLUK/blob/main/T%C3%9CRK%C3%87E/CleanArchitecture.md)                         | Vertical Slice Architecture                 |
 |----------------------------------|----------------------------------------|---------------------------------------------|----------------------------------------------|
 | **Yapılandırma Ölçütü**          | Teknik katmanlara göre (UI, BL, DAL)   | Domain merkezli, soyutlamaya dayalı         | Özellik ve işlevlere göre (feature-based)    |
 | **Sorumluluk Ayrımı**            | Katmanlara göre                        | Katmanlara göre ama domain odaklı           | Özellik bazlı, uçtan uca                     |
