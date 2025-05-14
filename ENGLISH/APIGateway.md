@@ -34,18 +34,6 @@ An **API Gateway** is a server that acts as a **single entry point** for clients
 
 ---
 
-## 🌐 Popular API Gateway Solutions
-
-| Platform                | Description                                 |
-|-------------------------|---------------------------------------------|
-| **Ocelot (C#/.NET)**    | Lightweight gateway for ASP.NET Core        |
-| **Kong**                | Open-source and high-performance            |
-| **NGINX**               | Acts as reverse proxy and gateway           |
-| **AWS API Gateway**     | Serverless API management on AWS            |
-| **Azure API Management**| Full-featured API management by Microsoft   |
-| **Traefik**             | Dynamic and automatic service discovery     |
-
----
 
 ## ✅ Benefits
 
